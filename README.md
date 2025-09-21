@@ -23,6 +23,7 @@ A simple Python class that simulates a bank account with deposit and withdrawal 
 ---
 
 ## Example Output  
+```
 Account owner: Neo  
 Account balance: 100  
 
@@ -33,7 +34,8 @@ Deposit error: Negative amounts dont work, silly goose.
 
 Withdrawing 30…  
 New balance: 120  
-Withdrawal error: Insufficient funds  
+Withdrawal error: Insufficient funds
+``` 
 
 ## Future Improvements
 - Interest rates  
