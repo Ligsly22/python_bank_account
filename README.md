@@ -42,6 +42,15 @@ Withdrawal error: Insufficient funds
 python bank_account.py
 ```
 ---
+
+
+---
+
+## Technologies Used
+- Python 3.11
+- Object-Oriented Programming (OOP)
+- Jupyter Notebook (for initial testing)
+- VS Code (for polishing and uploading)
 ## Future Improvements
 - Interest rates  
 - Transaction history  
