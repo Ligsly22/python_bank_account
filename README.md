@@ -40,9 +40,15 @@ Withdrawal error: Insufficient funds
 ## How to Run
 ```bash
 python bank_account.py
+
+
+
+P
 ```
 ---
 ## Future Improvements
 - Interest rates  
 - Transaction history  
-- Support for multiple accounts  
+- Support for multiple accounts
+
+Project my Lars "Ligs" Liguori *learning Python (soon Java) and AI engineering*
