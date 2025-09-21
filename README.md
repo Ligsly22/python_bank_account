@@ -41,7 +41,7 @@ Withdrawal error: Insufficient funds
 ```bash
 python bank_account.py
 ```
-
+---
 ## Future Improvements
 - Interest rates  
 - Transaction history  
