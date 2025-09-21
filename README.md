@@ -37,6 +37,11 @@ New balance: 120
 Withdrawal error: Insufficient funds
 ``` 
 
+## How to Run
+```bash
+python bank_account.py
+```
+
 ## Future Improvements
 - Interest rates  
 - Transaction history  
