@@ -43,9 +43,6 @@ python bank_account.py
 ```
 ---
 
-
----
-
 ## Technologies Used
 - Python 3.11
 - Object-Oriented Programming (OOP)
@@ -55,5 +52,7 @@ python bank_account.py
 - Interest rates  
 - Transaction history  
 - Support for multiple accounts
+
+---
 
 Project my Lars "Ligs" Liguori *learning Python (soon Java) and AI engineering*
